@@ -10,4 +10,4 @@ This is a Unity game engine project using the HoloLens 1 libraries.
 
 This project isn't actively maintained, but if you want to deploy this to your HoloLens, this appears to be a good (starting point tutorial)[https://medium.com/@mkryaz/step-by-step-hololens-1-with-unity-and-visual-studio-tutorial-4601d5dfcc8f] to launching a HoloLens 1 project with Unity and Visual Studio on Windows. 
 
-I don't have access to a HoloLens anymore, but I'm happy to help get this running is best as I can.
+I don't have access to a HoloLens anymore, but I'm happy to help get this running is best as I can (johnblanier@gmail.com).
